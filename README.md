@@ -52,7 +52,7 @@ project-root/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/devfeed.git
+   git clone https://github.com/raselshikdar/devfeed.git
    cd devfeed
    ```
 
